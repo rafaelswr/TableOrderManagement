@@ -10,14 +10,11 @@ Additionally, the list of nearby establishments will be sorted based on GPS loca
 
 ## Development
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: center; gap: 20px;">
 
 <img src="screenshotsWorkDevelopment/PaginaLogin.jpg" alt="Login Page" width="200"/>
 <img src="screenshotsWorkDevelopment/PaginaInicialUtilizador.jpg" alt="Initial Page User" width="200"/>
 <img src="screenshotsWorkDevelopment/PáginaEstabelecimento.jpg" alt="Establishment Page" width="200"/>
-<img src="screenshotsWorkDevelopment/RegistoUtilizador.jpg" alt="User Register" width="200"/>
-<img src="screenshotsWorkDevelopment/RegistoEstabelecimento_Info.jpg" alt="Establishment Page" width="200"/>
-
 
 </div>
 
