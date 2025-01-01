@@ -9,11 +9,14 @@ The software will notify users via push notifications whenever there is an updat
 Additionally, the list of nearby establishments will be sorted based on GPS location, ensuring that orders can only be placed when the user is in proximity to the location.
 
 ## Development
-![initialPageUser](screenshotsWorkDevelopment/PaginaInicialUtilizador.jpg)
 
-![EstablishmentPage](screenshotsWorkDevelopment/PaginaEstabelecimento.jpg)
+<div style="display: flex; justify-content: space-around;">
 
-![LoginPage](screenshotsWorkDevelopment/PaginaLogin.jpg)
+<img src="screenshotsWorkDevelopment/PaginaInicialUtilizador.jpg" alt="Initial Page User" width="200"/>
+<img src="screenshotsWorkDevelopment/PáginaEstabelecimento.jpg" alt="Establishment Page" width="200"/>
+<img src="screenshotsWorkDevelopment/PaginaLogin.jpg" alt="Login Page" width="200"/>
+
+</div>
 
 # Tech Stack 
 React Native, Google Firebase, Figma, JavaScript
