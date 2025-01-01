@@ -9,11 +9,11 @@ The software will notify users via push notifications whenever there is an updat
 Additionally, the list of nearby establishments will be sorted based on GPS location, ensuring that orders can only be placed when the user is in proximity to the location.
 
 ## Development
-![Página Inicial Utilizador](TableOrderManagement/screenshotsWorkDevelopment/PaginaInicialUtilizador.jpg)
+![initialPageUser](TableOrderManagement/screenshotsWorkDevelopment/PaginaInicialUtilizador.jpg)
 
-![Página de Estabelecimento](TableOrderManagement/screenshotsWorkDevelopment/PaginaEstabelecimento.jpg)
+![EstablishmentPage](TableOrderManagement/screenshotsWorkDevelopment/PaginaEstabelecimento.jpg)
 
-![Página de Login](TableOrderManagement/screenshotsWorkDevelopment/PaginaLogin.jpg)
+![LoginPage](TableOrderManagement/screenshotsWorkDevelopment/PaginaLogin.jpg)
 
 # Tech Stack 
 React Native, Google Firebase, Figma, JavaScript
